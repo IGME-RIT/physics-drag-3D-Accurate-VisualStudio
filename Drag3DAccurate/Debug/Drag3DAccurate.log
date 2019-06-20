@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\profiles\njp2424\desktop\physics\level2\physics-drag-3d-accurate-mastervs2019\drag3daccurate\main.cpp(658): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\profiles\njp2424\desktop\physics\level2\physics-drag-3d-accurate-mastervs2019\drag3daccurate\main.cpp(691): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Drag3DAccurate.vcxproj -> D:\Profiles\njp2424\Desktop\Physics\level2\physics-drag-3D-Accurate-masterVS2019\Drag3DAccurate\Debug\Drag3DAccurate.exe
